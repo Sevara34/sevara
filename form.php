@@ -1,5 +1,5 @@
 <?php
 
-echo"world"
+echo"world";
 
-class 'abc'
+echo 'abc';
