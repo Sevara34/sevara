@@ -1,5 +1,7 @@
 <?php
-
-echo"world"
-
-class 'abc'
+$class=[
+    'cddic',
+    'jkshkjhkh',
+    'cjdj',
+    'kdodhnod'
+];
